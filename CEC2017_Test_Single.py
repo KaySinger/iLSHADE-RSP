@@ -3,6 +3,7 @@ from matplotlib import pyplot as plt
 
 from iLSHADE_RSP import iLSHADE_RSP
 from SaDE import SaDE
+from SHADE import SHADE
 import cec2017.functions as functions
 
 # =========================
